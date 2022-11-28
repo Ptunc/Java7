@@ -35,6 +35,6 @@ public class java7 {
         p*=5;
 
         System.out.println("Toplam : " + (a+e+d+m+p) + " TL");
-
+        input.close();
     }
 }
